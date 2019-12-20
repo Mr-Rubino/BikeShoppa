@@ -8,7 +8,7 @@ namespace BikeShoppa.Model
 {
     class Store
     {
-        public String storeName { get; set; }
+        public string storeName { get; set; }
         public string adress { get; set; }
         public string city { get; set; }
         public int maxCapacity { get; set; }
